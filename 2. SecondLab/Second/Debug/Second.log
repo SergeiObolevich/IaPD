@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\serge\source\repos\second\second\main.cpp(47): warning C4554: ">>": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  Second.vcxproj -> C:\Users\serge\source\repos\Second\Debug\Second.exe

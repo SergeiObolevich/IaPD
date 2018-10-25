@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThirdLab", "ThirdLab\ThirdLab.vcxproj", "{576C58B1-47C4-46BB-8415-16EACB472336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{576C58B1-47C4-46BB-8415-16EACB472336}.Debug|x64.ActiveCfg = Debug|x64
+		{576C58B1-47C4-46BB-8415-16EACB472336}.Debug|x64.Build.0 = Debug|x64
+		{576C58B1-47C4-46BB-8415-16EACB472336}.Debug|x86.ActiveCfg = Debug|Win32
+		{576C58B1-47C4-46BB-8415-16EACB472336}.Debug|x86.Build.0 = Debug|Win32
+		{576C58B1-47C4-46BB-8415-16EACB472336}.Release|x64.ActiveCfg = Release|x64
+		{576C58B1-47C4-46BB-8415-16EACB472336}.Release|x64.Build.0 = Release|x64
+		{576C58B1-47C4-46BB-8415-16EACB472336}.Release|x86.ActiveCfg = Release|Win32
+		{576C58B1-47C4-46BB-8415-16EACB472336}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E06B0D07-17E9-43E2-BFA0-E3F713D83643}
+	EndGlobalSection
+EndGlobal
