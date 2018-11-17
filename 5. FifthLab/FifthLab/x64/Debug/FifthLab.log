@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\учеба\пятый семестр\4. иипу (4 из 6)\5. fifthlab\fifthlab\main.cpp(97): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+d:\учеба\пятый семестр\4. иипу (4 из 6)\5. fifthlab\fifthlab\main.cpp(183): warning C4101: process_information: неиспользованная локальная переменная
+  FifthLab.vcxproj -> D:\Учеба\Пятый семестр\4. ИиПУ (4 из 6)\5. FifthLab\x64\Debug\FifthLab.exe
