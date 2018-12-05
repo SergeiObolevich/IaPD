@@ -1,0 +1,11 @@
+﻿  DeviceScanner.cpp
+c:\users\serge\source\repos\sixlab\sixlab\devicescanner.cpp(152): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\serge\source\repos\sixlab\sixlab\devicescanner.cpp(171): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\serge\source\repos\sixlab\sixlab\devicescanner.cpp(190): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+  MtpDevice.cpp
+  UsbDevice.cpp
+  Создание кода...
+c:\users\serge\source\repos\sixlab\sixlab\usbdevice.cpp(75): warning C4715: UsbDevice::lockDevice: значение возвращается не при всех путях выполнения
+c:\users\serge\source\repos\sixlab\sixlab\usbdevice.cpp(149): warning C4715: UsbDevice::badlyRemove: значение возвращается не при всех путях выполнения
+  SixLab.vcxproj -> c:\Users\serge\source\repos\SixLab\Debug\SixLab.exe
